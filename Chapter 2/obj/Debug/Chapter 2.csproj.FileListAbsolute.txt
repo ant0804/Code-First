@@ -1,0 +1,18 @@
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\Chapter 2.exe.config
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\Chapter 2.exe
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\Chapter 2.pdb
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\DataAccess.dll
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\EntityFramework.dll
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\Model.dll
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\DataAccess.pdb
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\DataAccess.dll.config
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\Model.pdb
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\EntityFramework.xml
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E01851\source\repos\Code First\Chapter 2\obj\Debug\Chapter 2.csprojAssemblyReference.cache
+C:\Users\E01851\source\repos\Code First\Chapter 2\obj\Debug\Chapter 2.csproj.CoreCompileInputs.cache
+C:\Users\E01851\source\repos\Code First\Chapter 2\obj\Debug\Chapter 2.csproj.CopyComplete
+C:\Users\E01851\source\repos\Code First\Chapter 2\obj\Debug\Chapter 2.exe
+C:\Users\E01851\source\repos\Code First\Chapter 2\obj\Debug\Chapter 2.pdb
+C:\Users\E01851\source\repos\Code First\Chapter 2\bin\Debug\Model.dll.config

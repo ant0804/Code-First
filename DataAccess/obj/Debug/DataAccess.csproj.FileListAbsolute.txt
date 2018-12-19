@@ -1,0 +1,15 @@
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\Model.dll
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\Model.pdb
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E01851\source\repos\Code First\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\E01851\source\repos\Code First\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\E01851\source\repos\Code First\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\E01851\source\repos\Code First\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\E01851\source\repos\Code First\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\E01851\source\repos\Code First\DataAccess\bin\Debug\Model.dll.config
